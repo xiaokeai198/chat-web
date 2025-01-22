@@ -1,4 +1,4 @@
-# Chat App
+# Chat Web
 
 一个基于 DeepSeek API 的聊天应用。
 
@@ -9,7 +9,7 @@
 - 实时对话
 
 ## 使用方法
-1. 访问 https://你的用户名.github.io/chat-app
+1. 访问网站
 2. 点击右上角设置按钮
 3. 输入你的 DeepSeek API 密钥
 4. 开始聊天 
